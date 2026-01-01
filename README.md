@@ -7,7 +7,7 @@
 </p>
 
 [![Discord](https://img.shields.io/badge/Discord-nyxx2429-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1e2e)](https://discord.com/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)](mailto:ouassimad@proton.me)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)](ouassimad@proton.me)
 [![Profile Views](https://komarev.com/ghpvc/?username=wassimaddad&color=00d9ff&style=for-the-badge&label=Profile+Views)](https://github.com/OuassimDev)
 
 </div>
