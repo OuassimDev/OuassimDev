@@ -8,6 +8,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-nyxx2429-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1e2e)](https://discord.com/)
 ![Email](https://img.shields.io/badge/Email-ouassimad@proton.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OuassimDev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/OuassimDev/)
 [![Profile Views](https://komarev.com/ghpvc/?username=wassimaddad&color=00d9ff&style=for-the-badge&label=Profile+Views)](https://github.com/OuassimDev)
 
 </div>
