@@ -22,20 +22,16 @@
 ```typescript
 interface Developer {
   name: string;
-  location: string;
   role: string;
-  currentlyLearning: string[];
-  interests: string[];
-  workingOn: string;
+  stack: string[];
+  focus: string;
 }
 
 const ouassim: Developer = {
   name: "Ouassim Addad",
-  location: "Algeria 🇩🇿",
   role: "Web Developer",
-  currentlyLearning: ["React", "NodeJS/ExpressJS", "MongoDB"],
-  interests: ["Web Dev", "UI/UX", "Performance"],
-  workingOn: "Mastering modern web technologies 🚀"
+  stack: ["React", "Node.js", "MongoDB"],
+  focus: "Building modern, fast, and scalable web apps",
 };
 ```
 
