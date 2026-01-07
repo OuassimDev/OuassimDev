@@ -17,7 +17,7 @@ Building for the web • Learning by doing
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb&theme=dark" />
 
-<br/><br/>
+
 
 <code>JavaScript · Node.js · MongoDB<br/>
 Web fundamentals · Problem solving</code>
