@@ -8,18 +8,16 @@ Building for the web • Learning by doing
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/OuassimDev/">LinkedIn</a> ·
-<a href="https://discord.com/">Discord</a> ·
-<a href="mailto:ouassimad@proton.me">Email</a>
+<a href="https://www.linkedin.com/in/OuassimDev/">LinkedIn</a>
 </p>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
 
 
 
-<code>JavaScript · Node.js · MongoDB<br/>
-Web fundamentals · Problem solving</code>
+<code>React · Node.js<br/>
+Web/App fundamentals · Problem solving</code>
 
 </div>
