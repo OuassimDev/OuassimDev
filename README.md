@@ -13,11 +13,11 @@ Building for the web • Learning by doing
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,supabase,python&theme=dark" />
 
 
 
-<code>React · Node.js · Supabase<br/>
+<code>React · Node.js · Supabase · python<br/>
 Web/App fundamentals · Problem solving</code>
 
 </div>
